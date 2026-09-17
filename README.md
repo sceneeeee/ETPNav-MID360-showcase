@@ -6,7 +6,7 @@ A public, publication-safe overview of ongoing research on adapting **ETPNav** t
 
 > **Status:** research in progress. Active implementation, training code, checkpoints, detailed held-out protocols, and unpublished results remain in a private research repository.
 
-[Detailed research overview](docs/RESEARCH_OVERVIEW.md) · [Original ETPNav](https://github.com/MarSaKi/ETPNav) · [Paper](https://arxiv.org/abs/2304.03047)
+[Application summary](docs/APPLICATION_SUMMARY.md) · [Detailed research overview](docs/RESEARCH_OVERVIEW.md) · [Original ETPNav](https://github.com/MarSaKi/ETPNav) · [Paper](https://arxiv.org/abs/2304.03047)
 
 ---
 
